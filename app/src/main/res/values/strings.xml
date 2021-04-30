@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Database Lab</string>
+    <string name="submit">Submit</string>
+    <string name="display_names">Display Names</string>
 </resources>
